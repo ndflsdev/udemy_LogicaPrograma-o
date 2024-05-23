@@ -16,7 +16,7 @@ public class Main {
 			consumo = km / litros;
 		
 		
-			System.out.printf(" %.3f km/1%n", consumo);
+			System.out.printf("%.3f km/l%n", consumo);
 
 		sc.close();
 	}
